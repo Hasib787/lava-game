@@ -1,14 +1,14 @@
 # lava-game
 
-##Install app in local
+## Install app in local
 
-###`pnpm install`
+### `pnpm install`
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-###`pnpm dev`
+### `pnpm dev`
 
 
 Runs the app in the development mode.\
